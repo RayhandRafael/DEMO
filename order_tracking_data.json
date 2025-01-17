@@ -1,6 +1,5 @@
-[
-  {
-    "Order Number": "ORD001",
+{
+  "ORD001": {
     "Order Status": "Shipped",
     "Delivery Service": "FedEx",
     "Arrival Date": "1/18/2025",
@@ -14,8 +13,7 @@
     "Estimated Delivery Time": "1/18/2025",
     "Remarks": "No delays"
   },
-  {
-    "Order Number": "ORD002",
+  "ORD002": {
     "Order Status": "In Transit",
     "Delivery Service": "DHL",
     "Arrival Date": "1/20/2025",
@@ -29,8 +27,7 @@
     "Estimated Delivery Time": "1/20/2025",
     "Remarks": "Expected delay due to weather"
   },
-  {
-    "Order Number": "ORD003",
+  "ORD003": {
     "Order Status": "Delivered",
     "Delivery Service": "UPS",
     "Arrival Date": "1/12/2025",
@@ -44,8 +41,7 @@
     "Estimated Delivery Time": "1/12/2025",
     "Remarks": "Delivered successfully"
   },
-  {
-    "Order Number": "ORD004",
+  "ORD004": {
     "Order Status": "Pending",
     "Delivery Service": "Aramex",
     "Arrival Date": "1/25/2025",
@@ -59,8 +55,7 @@
     "Estimated Delivery Time": "1/25/2025",
     "Remarks": "Awaiting dispatch"
   },
-  {
-    "Order Number": "ORD005",
+  "ORD005": {
     "Order Status": "Shipped",
     "Delivery Service": "SingPost",
     "Arrival Date": "1/15/2025",
@@ -73,80 +68,5 @@
     "Tracking Number": "5678904321",
     "Estimated Delivery Time": "1/15/2025",
     "Remarks": "No delays"
-  },
-  {
-    "Order Number": "ORD006",
-    "Order Status": "Cancelled",
-    "Delivery Service": "N/A",
-    "Arrival Date": "N/A",
-    "Current Location": "N/A",
-    "Shipping Method": "N/A",
-    "Payment Status": "Refunded",
-    "Customer Name": "Tom Lee",
-    "Customer Email": "tomlee@email.com",
-    "Address": "202 East Coast Road, Singapore",
-    "Tracking Number": "N/A",
-    "Estimated Delivery Time": "N/A",
-    "Remarks": "Order cancelled by customer"
-  },
-  {
-    "Order Number": "ORD007",
-    "Order Status": "Delivered",
-    "Delivery Service": "DHL",
-    "Arrival Date": "1/13/2025",
-    "Current Location": "Jakarta, Indonesia",
-    "Shipping Method": "Express",
-    "Payment Status": "Paid",
-    "Customer Name": "Charlie Brown",
-    "Customer Email": "charliebrown@email.com",
-    "Address": "22 Central Park, Jakarta, Indonesia",
-    "Tracking Number": "2345678901",
-    "Estimated Delivery Time": "1/13/2025",
-    "Remarks": "Delivered successfully"
-  },
-  {
-    "Order Number": "ORD008",
-    "Order Status": "Shipped",
-    "Delivery Service": "FedEx",
-    "Arrival Date": "1/16/2025",
-    "Current Location": "Singapore Changi",
-    "Shipping Method": "Express",
-    "Payment Status": "Paid",
-    "Customer Name": "David Tan",
-    "Customer Email": "davidtan@email.com",
-    "Address": "77 East Coast Road, Singapore",
-    "Tracking Number": "3456789012",
-    "Estimated Delivery Time": "1/16/2025",
-    "Remarks": "No delays"
-  },
-  {
-    "Order Number": "ORD009",
-    "Order Status": "In Transit",
-    "Delivery Service": "UPS",
-    "Arrival Date": "1/22/2025",
-    "Current Location": "Hong Kong",
-    "Shipping Method": "Standard",
-    "Payment Status": "Pending",
-    "Customer Name": "Eva Chan",
-    "Customer Email": "evachan@email.com",
-    "Address": "88 Queen's Road, Hong Kong",
-    "Tracking Number": "4567890123",
-    "Estimated Delivery Time": "1/22/2025",
-    "Remarks": "Delayed due to customs"
-  },
-  {
-    "Order Number": "ORD010",
-    "Order Status": "Shipped",
-    "Delivery Service": "DHL",
-    "Arrival Date": "1/19/2025",
-    "Current Location": "Singapore Distribution Center",
-    "Shipping Method": "Standard",
-    "Payment Status": "Paid",
-    "Customer Name": "George Kim",
-    "Customer Email": "georgekim@email.com",
-    "Address": "654 Newton Road, Singapore",
-    "Tracking Number": "5678901234",
-    "Estimated Delivery Time": "1/19/2025",
-    "Remarks": "No delays"
   }
-]
+}
